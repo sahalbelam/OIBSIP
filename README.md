@@ -1,24 +1,63 @@
-# Oasis Infobyte Internship Project
+# Oasis Infobyte Internship Tasks
 
-## Description
-This project is the result of my internship at Oasis Infobyte. It consists of a landing page created using HTML and CSS. The landing page serves as an introduction to Oasis Infobyte's products, services, or any specific information relevant to the company's goals.
+During my internship at Oasis Infobyte, I completed the following tasks using HTML, CSS, and JavaScript.
 
-## Features
-- **Responsive Design:** The landing page is designed to be responsive and adapt to different screen sizes, ensuring a consistent user experience across devices.
-- **HTML Structure:** The HTML is structured to maintain clarity and accessibility, with appropriate use of semantic tags for better SEO and accessibility.
-- **CSS Styling:** CSS is used to style the landing page, incorporating modern design principles and ensuring visual appeal.
-- **Navigation:** If applicable, navigation elements are included to guide users through the website or provide access to important sections.
+## 1. Calculator
 
-## Usage
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in a web browser to view the landing page.
-3. Explore the different sections and features of the landing page.
+- **Description**: A basic calculator web application that performs arithmetic operations.
+- **Features**:
+  - Addition, subtraction, multiplication, and division operations.
+  - Clear button to reset the calculator.
 
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request.
+### Installation
+1. Clone the repository: `git clone https://github.com/your-username/calculator.git`
+2. Open the `index.html` file in your web browser.
+
+## 2. Tribute Page
+
+- **Description**: A tribute page dedicated to a person, organization, or cause.
+- **Features**:
+  - Informative content about the tribute subject.
+  - Responsive layout for different screen sizes.
+
+### Installation
+1. Clone the repository: `git clone https://github.com/your-username/tribute-page.git`
+2. Open the `index.html` file in your web browser.
+
+## 3. Todo App
+
+- **Description**: A simple todo list application to manage tasks.
+- **Features**:
+  - Add, edit, and delete tasks.
+  - Mark tasks as completed.
+  - Local storage to persist tasks.
+
+### Installation
+1. Clone the repository: `git clone https://github.com/your-username/todo-app.git`
+2. Open the `index.html` file in your web browser.
+
+## 4. Login Authorization
+
+- **Description**: A login page with basic authentication functionality.
+- **Features**:
+  - User authentication using username and password.
+  - Simple validation for username and password fields.
+
+### Installation
+1. Clone the repository: `git clone https://github.com/your-username/login-auth.git`
+2. Open the `index.html` file in your web browser.
+
+## Future Improvements
+
+- Calculator: Implement more advanced mathematical functions.
+- Tribute Page: Add interactive elements such as sliders or interactive timelines.
+- Todo App: Allow users to categorize tasks and set deadlines.
+- Login Authorization: Implement backend authentication using databases and server-side scripting.
 
 ## Credits
-- **Developer:** Sahal Belam
-- **Company:** Oasis Infobyte
 
+I'd like to thank the following resources for helping me during the development of these tasks:
+- [W3Schools](https://www.w3schools.com/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Stack Overflow](https://stackoverflow.com/)
 
